@@ -20,4 +20,4 @@ jobs:
         with:
           context: DockerFileFolder/
           push: true
-          tags: rakeshjoruka/autobuildimages:latest
+          tags: mudhirajkumar/dockerimages:latest
